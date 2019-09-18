@@ -1,0 +1,1 @@
+This class hadn't any code - It was just environment setup using Anaconda (I won't use it, no f*cking way) and virtual envs.
