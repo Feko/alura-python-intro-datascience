@@ -19,7 +19,7 @@ This code is repeated all over the Python files. As this is just study code, I d
 As I'm still taking the classes, it's not complete yet. Here's the current status:
 
 - [x] Course 1 - First Steps
-- [x] Course 2 - Intro to Pandas - **Undergoing, 70%**
+- [x] Course 2 - Intro to Pandas - **Undergoing, 90%**
 - [ ] Course 3 - Intro to Time-series and analysis
 - [ ] Course 4 - Model and Linear regression 
 - [ ] Course 5 - Linear regression and statsmodel
