@@ -20,7 +20,7 @@ As I'm still taking the classes, it's not complete yet. Here's the current statu
 
 - [x] Course 1 - First Steps
 - [x] Course 2 - Intro to Pandas
-- [ ] Course 3 - Intro to Time-series and analysis
+- [x] Course 3 - Intro to Time-series and analysis
 - [ ] Course 4 - Model and Linear regression 
 - [ ] Course 5 - Linear regression and statsmodel
 - [ ] Course 6 - Intro to charts design
